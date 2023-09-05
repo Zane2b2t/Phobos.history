@@ -14,3 +14,5 @@ Phobos 2 was developed by 3arthqu4ke from late 2019 to late 2020, it was very go
 Crystalinqq and Megyn (Another phobos dev) created an updated version of Phobos with malware in it and published it to Github, dueto the source code being public on Github and Phobos not having a bad reputation back then, everyone assumed it's safe, within 2 days of the release 4,000 players have ran Phobos and were infected.
 
 
+
+## NOTE: This is unfinished. I made this repo public incase a phobos member sees a mistake and corrects it
