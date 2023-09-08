@@ -12,12 +12,11 @@ At the time of this Phobos kami base Gui was never leaked. and "YPort" was no mo
 FastForward more time, 3arthqu4ke tried to make a good AutoTrap on Phobos, but he wasn't able to dueto issues with Kami's offsets, he also wanted to start a new fresh start with his own base and system, So he created "Phobos 2" (that wasn't the client name. it was just Phobos with a new base but nowdays we call it Phobos 2 to diffrenciate)
 Phobos 2 was developed by 3arthqu4ke from late 2019 to late 2020, it was very good many players got greedy and wanted to get their hands on it one way or another. A player known as "Travis" who's the developer of another popular client, wurst+2 was able to token log & rat "Crystalinqq" using a ratted version of his client, he was able to optain access to the Phobos src and Discord account. to avoid their src being sold for profits and get revenge on Travis and his friends, the Emperium
 Crystalinqq and Megyn (Another phobos dev) created an updated version of Phobos with malware in it and published it to Github, dueto the source code being public on Github and Phobos not having a bad reputation back then, everyone assumed it's safe, within 2 days of the release 4,000 players have ran Phobos and were infected.
-At [Insert date here] 3arthqu4ke created something that have never been done before. something that makes him and his client standout, PingBypass.
-PingBypass worked by running the selected modules on a remote machine closer to the server.
-(optional to include --> when news spread out about this new tech, Butterfly aka DotGod.CC copied the idea and made their module "Starlink" which is like S-AutoCrystal)
 
 * Phobos 3 newbase Chapter
 
-
+At [Insert date here] 3arthqu4ke created something that have never been done before. something that makes him and his client standout, PingBypass.
+PingBypass worked by running the selected modules on a remote machine closer to the server.
+(optional to include --> when news spread out about this new tech, Butterfly aka DotGod.CC copied the idea and made their module "Starlink" which is like S-AutoCrystal)
 
 ## NOTE: This is unfinished. I made this repo public incase a Phobos member sees a mistake and corrects it
