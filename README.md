@@ -15,7 +15,7 @@ Crystalinqq and Megyn (Another phobos dev) created an updated version of Phobos 
 
 * Phobos 3 newbase Chapter
 
-At [Insert date here] 3arthqu4ke created something that have never been done before. something that makes him and his client standout, PingBypass.
+At [August 2020] 3arthqu4ke created something that have never been done before. something that makes him and his client standout, PingBypass.
 PingBypass worked by running the selected modules on a remote machine closer to the server.
 (optional to include --> when news spread out about this new tech, Butterfly aka DotGod.CC copied the idea and made their module "Starlink" which is like S-AutoCrystal)
 
