@@ -60,6 +60,17 @@ This time however people didn't run it immidietly, learning from others past mis
 They waited a trusted Phobos dealer called "GoPro336" to confirm it was safe and not ratted.
 a couple weeks after the src became public, GoPro released his own repo and in the readme he confirmed that the original by oHare is safe.
 
+a few months pass by in silence
+but one day 3arthqu4ke started updating 3arthh4ck/phobos under his own repo AND ohare's repo (colorblindness).  colorblindness was the main one until 3arthh4ck v1.6.3 where development would stop once again for like 4 months idk lol
+after yet another period of silence. Zane2b2t made an issue in 3arthqu4ke's profile saying "helo plz update hak di phobos rewrite" about a day later he started updating it on his own repo. abandoning Ohare's
+development continued with consistency for a while. people pointed out bugs and suggested features. 3arthqu4ke would instantly implement them. that is until 1.8.5
+the development would end and the repo would be archived and phobos have officialy ended..
+until zb0b released the new version of ohare.cc: anarachyhvh.com
+anarchyhvh was on 1.19 and 3arthh4ck's ca needed some updates for 1.19 so 3arthqu4ke unarchived the repo for a lil. pushed updates and merged PRs and then. it was archived until now.
+
+
+* Phobos 5 fabric chapter
+
 
 
 ## NOTE: This is unfinished. I made this repo public incase a Phobos member sees a mistake and corrects it
