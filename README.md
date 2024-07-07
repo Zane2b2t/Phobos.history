@@ -70,6 +70,13 @@ anarchyhvh was on 1.19 and 3arthh4ck's ca needed some updates for 1.19 so 3arthq
 
 
 * Phobos 5 fabric chapter
+After a while. 3arthqu4ke took a break from anarchy and started working on non-anarchy related stuff.
+but he was also secretly working on a new client, phobot was supposed to be a robot that automatically crystalpvp'd for you. named after one of zb0b's alts from 2020
+but the client ended up having more features than just that. It was no better than 3arthh4ck, however the code was much cleaner and it was the first time 3arthqu4ke works on fabric to develop his skills.
+Phobot also had a plugin system like 3arthh4ck.
+3arthqu4ke wanted to make phobot his most organized and efficient client. it works on fabric, lexforge and neoforge thanks to him using mojang's international mappings.
+phobot was the first 3arthqu4ke client to have a crystalbomb integration in it's AutoCrystal. it's even compatiable with future's packetmine.
+Phobot had a better extrapolation system than 3arthh4ck.
 
 
 
