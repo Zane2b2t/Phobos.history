@@ -80,4 +80,4 @@ Phobot had a better extrapolation system than 3arthh4ck.
 
 
 
-## NOTE: This is unfinished. I made this repo public incase a Phobos member sees a mistake and corrects it
+## NOTE: This is unfinished. I made this repo public incase a Phobos member sees a mistake and corrects it.
