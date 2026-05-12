@@ -24,7 +24,7 @@ PingBypass worked by running the selected modules on a remote machine closer to 
 FastForward some more time, 3arthqu4ke started working on a new base for Phobos, he did this while also working on the other one.
 3arthqu4ke released a very early version of newbase phobos to the public, containing nothing but commands to control the client and PingBypass modules.
 
-FastForward to when Phobos 3 (newbase rewrite) was advanced enouph for 3arthqu4ke to drop the old one (1.9.0)
+FastForward to when Phobos 3 (newbase rewrite) was advanced enough for 3arthqu4ke to drop the old one (1.9.0)
 
 Now with much more experience and knowlege, 3arthqu4ke and Phobos development team were able to create the best hack at the time
 they still made new and revloutionaly features like PistonAura, Phobos was the first client to automate piston pvp at [i have the date but not currently]
